@@ -59,5 +59,4 @@ Limitations
 Credits
 •	Data: Lahman Baseball Database, maintained by Sean Lahman and SABR.
 •	Project built and maintained by Felix Li.
-License
-Add a license of your choice (for example, MIT) if you plan to let others reuse or modify this code.
+
